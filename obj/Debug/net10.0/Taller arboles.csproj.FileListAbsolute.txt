@@ -1,0 +1,14 @@
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\Taller arboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\Taller arboles.AssemblyInfoInputs.cache
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\Taller arboles.AssemblyInfo.cs
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\Taller arboles.csproj.CoreCompileInputs.cache
+C:\Users\emari\Documents\Taller arboles\bin\Debug\net10.0\Taller arboles.exe
+C:\Users\emari\Documents\Taller arboles\bin\Debug\net10.0\Taller arboles.deps.json
+C:\Users\emari\Documents\Taller arboles\bin\Debug\net10.0\Taller arboles.runtimeconfig.json
+C:\Users\emari\Documents\Taller arboles\bin\Debug\net10.0\Taller arboles.dll
+C:\Users\emari\Documents\Taller arboles\bin\Debug\net10.0\Taller arboles.pdb
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\Taller arboles.dll
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\refint\Taller arboles.dll
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\Taller arboles.pdb
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\Taller arboles.genruntimeconfig.cache
+C:\Users\emari\Documents\Taller arboles\obj\Debug\net10.0\ref\Taller arboles.dll
